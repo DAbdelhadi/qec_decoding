@@ -1,1 +1,1 @@
-Use factor graph pkg from: https://github.com/mbforbes/py-factorgraph/tree/master/factorgraph
+Use factor graph pkg from: https://github.com/mbforbes/py-factorgraph/tree/master
